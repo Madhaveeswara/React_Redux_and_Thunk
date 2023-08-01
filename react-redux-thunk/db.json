@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "email": "madhaveeswara@gmail.com",
+      "password": "$2a$10$e4ujQNvmbQM9fhsM87hMmu6EgPlpkbfDHtKBB0PW73p5UWmsVcQB.",
+      "fullname": "Madhava",
+      "id": 1
+    },
+    {
+      "email": "Mewo@abc.com",
+      "password": "$2a$10$6s1PMt2KMdTy7r2iE2ltMu.pZItL8uR5HkjmGWv9/TwMWEDmgby5C",
+      "fullname": "Meow",
+      "id": 2
+    },
+    {
+      "email": "madhaveeswaraleo@gmail.com",
+      "password": "$2a$10$ARaLouz3o.dQW8.4ZQLXgOsPpkCU3xarAQeccUDh4BSB7UVoM7kge",
+      "fullname": "ewqewqewq",
+      "id": 3
+    },
+    {
+      "email": "madhav@gmail.com",
+      "password": "$2a$10$kMNff4dMlmbEu.LEZK5qAux0ihekFMN25/8DGetxy5hIDwqY.PFWK",
+      "fullname": "weewrerw",
+      "id": 4
+    },
+    {
+      "email": "madmax@gmail.com",
+      "password": "$2a$10$xbSCrmObTNeefk2iLLZ8/es/BH9Zox.ME1JFXc.jxPbTdqB/DMXs2",
+      "fullname": "Madmax",
+      "id": 5
+    },
+    {
+      "email": "madhava@gmail.com",
+      "password": "$2a$10$niZlODKoRbAEsgiy.yrISOPCVm/O/fg6iLKt16Pxk7/3.SBlVABfW",
+      "fullname": "Madhava",
+      "id": 6
+    }
+  ]
+}
